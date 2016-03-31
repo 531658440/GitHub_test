@@ -1,0 +1,117 @@
+《Python爬虫学习系列教程》学习笔记
+http://www.cnblogs.com/xin-xin/p/4297852.html
+
+Python 3开发网络爬虫(一)
+http://www.yiibai.com/python/python3-webbug-series1.html
+
+
+Python 文档
+https://docs.python.org/3/
+
+Python 类库
+https://docs.python.org/3/library/index.html
+
+
+
+pycharm 中的版本控制.
+http://www.2cto.com/kf/201512/454450.html
+http://www.wtoutiao.com/p/d3eD2A.html
+
+Python 慕课
+
+http://www.imooc.com/course/list?
+c=python&mc_marking=9def1a8dc5de892423b9b1ff5e027378&mc_channe
+l=bdpython&mc_billing=cpc&mc_keywords=python
+%E5%85%A5%E9%97%A8&mc_position=%E6%96%87%E5%AD
+%97%E9%93%BE&mc_business=
+
+
+首先，我们要用Python写爬虫，肯定要了解Python的基础吧，万丈高楼
+平地起，不能忘啦那地基，哈哈，那么我就分享一下自己曾经看过的一
+些Python教程，小伙伴们可以作为参考。
+
+1) 慕课网Python教程
+曾经有一些基础的语法是在慕课网上看的，上面附有一些练习，学习完
+之后可以作为练习，感觉效果还是蛮不错的，不过稍微遗憾的是内容基
+本上都是最基础的，入门开始的话，就这个吧
+
+学习网址：慕课网Python教程
+
+2) 廖雪峰Python教程
+后来，我发现了廖老师的Python教程，讲的那是非常通俗易懂哪，感觉
+也是非常不错，大家如果想进一步了解Python就看一下这个吧。
+
+学习网址：廖雪峰Python教程
+
+3) 简明Python教程
+还有一个我看过的，简明Python教程，感觉讲的也不错
+
+学习网址：简明Python教程
+
+2.Python urllib和urllib2 库的用法
+
+urllib和urllib2库是学习Python爬虫最基本的库，利用这个库我们可
+以得到网页的内容，并对内容用正则表达式提取分析，得到我们想要的
+结果。这个在学习过程中我会和大家分享的。
+
+3.Python 正则表达式
+
+Python正则表达式是一种用来匹配字符串的强有力的武器。它的设计思
+想是用一种描述性的语言来给字符串定义一个规则，凡是符合规则的字
+符串，我们就认为它“匹配”了，否则，该字符串就是不合法的。这个
+在后面的博文会分享的。
+
+4.爬虫框架Scrapy
+
+如果你是一个Python高手，基本的爬虫知识都已经掌握了，那么就寻觅
+一下Python框架吧，我选择的框架是Scrapy框架。这个框架有什么强大
+的功能呢？下面是它的官方介绍：
+
+HTML, XML源数据 选择及提取 的内置支持
+提供了一系列在spider之间共享的可复用的过滤器(即 Item Loaders)
+，对智能处理爬取数据提供了内置支持。
+通过 feed导出 提供了多格式(JSON、CSV、XML)，多存储后端(FTP、S3
+、本地文件系统)的内置支持
+提供了media pipeline，可以 自动下载 爬取到的数据中的图片(或者
+其他资源)。
+高扩展性。您可以通过使用 signals ，设计好的API(中间件,
+extensions, pipelines)来定制实现您的功能。
+
+官方文档：http://doc.scrapy.org/en/latest/
+
+等我们掌握了基础的知识，再用这个 Scrapy 框架吧！
+
+扯了这么多，好像没多少有用的东西额，那就不扯啦！
+
+下面开始我们正式进入爬虫之旅吧！
+
+转载请注明：静觅 » Python爬虫入门一之综述
+
+
+
+
+
+
+
+Python3.x爬虫教程：爬网页、爬图片、自动登录http://www.2cto.com/kf/201507/417660.html
+
+
+《Python爬虫学习系列教程》学习笔记
+
+http://www.cnblogs.com/xin-xin/p/4297852.html
+
+
+
+如何在windows下安装GIT
+
+在Windows上安装git，一般为msysgit，官方下载地址为
+https://git-for-windows.github.io/
+
+mysysgit安装参考这里
+http://jingyan.baidu.com/article/90895e0fb3495f64ed6b0b50.html
+
+
+
+
+
+
